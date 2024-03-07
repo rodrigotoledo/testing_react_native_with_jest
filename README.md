@@ -2,6 +2,8 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # Getting Started
 
+If you want know more information about how this project was built, please access loom video at https://www.loom.com/share/95a639171682420788bf53e00b5c7f1c?sid=98bca861-9e7b-4366-8b06-cb3e473b8c88
+
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
 
 ## Step 1: Start the Metro Server
